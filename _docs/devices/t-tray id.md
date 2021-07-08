@@ -1,4 +1,9 @@
-# T-Tray ID
+---
+title: T-Tray ID
+category: Devices
+order: 3
+---
+
 
 T-Tray의 좌측 상단에는 ID Block이 있다. 동일한 Handler에서는 각 T-Tray마다 고유의 ID를 가지며, Block의 위치를 바꿔서 이를 변경할 수 있다.
 
