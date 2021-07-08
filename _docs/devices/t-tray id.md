@@ -15,9 +15,7 @@ ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제�
 
 4-Bit 2진법으로 Tray ID 1번부터 15번까지 만들 수 있다.
 
-![lodo](../images/lodo.png)
-![lodo](./images/lodo.png)
-![lodo](../images/Lodo.png)
-![lodo](./images/Lodo.png)
+
 ![lodo](/images/Lodo.png)
-![lodo](/images/lodo.png)
+![lodo](/images/ID_en.png)
+![lodo](/images/Tray ID Table.png)
