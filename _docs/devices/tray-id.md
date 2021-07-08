@@ -48,3 +48,11 @@ ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제�
 
 555../
 <img src="{{ site.baseurl }}../images/id-table.png" width="40" height="40" alt="{{ site.title }} logo">
+
+----------
+
+1111
+![test](https://raw.github.com/{lte0609}/{ht}/{main}/{/images/id-table.png})
+
+2222
+![test](https://raw.github.com/{lte0609}/{ht}/{main}/{../images/id-table.png})
