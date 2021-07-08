@@ -14,6 +14,11 @@ ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제�
 예를 들어, T-Tray ID 3을 표현할 때는 아래와 같이 설정하면 된다.
 
 ![ID:3 Example](images/id3_en.png)
+![ID:3 Example](/images/id3_en.png)
+![ID:3 Example](../images/id3_en.png)
+![ID:3 Example](images/id3_en.png? raw = true)
+![ID:3 Example](/images/id3_en.png? raw = true)
+![ID:3 Example](../images/id3_en.png? raw = true)
 
 4-Bit 2진법으로 Tray ID 1번부터 15번까지 만들 수 있다.
 
