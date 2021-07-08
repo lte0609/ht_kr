@@ -1,23 +1,23 @@
 # ----
 # Site
 
-title: Edition 1
+title: M500HT Manual
 url: "https://lte0609.github.io"
 baseurl: "/ht"
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Product documentation template for Jekyll.
+logo: /logo.png
+description: M500HT Handler Manual.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Edition Template
+  name: Mirae
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
+    - http://www.mirae.com
 
 # -----
 # Build
