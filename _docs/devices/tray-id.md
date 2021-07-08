@@ -22,4 +22,7 @@ ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제�
 
 4-Bit 2진법으로 Tray ID 1번부터 15번까지 만들 수 있다.
 
-![lodo](images/id-table.png)
+![lodo](/images/id-table.png)
+
+
+<img src="{{ site.baseurl }}/images/id-table.png" width="100" height="100" alt="{{ site.title }} lo2go">
