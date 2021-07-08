@@ -18,4 +18,6 @@ ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제�
 
 ![lodo](/images/Lodo.png)
 ![lodo](/images/ID_en.png)
+
+
 ![lodo](/images/Tray ID Table.png)
