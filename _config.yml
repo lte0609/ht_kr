@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Edition Template
-url: "https://long-pig.cloudvent.net"
-baseurl:
+title: Edition 1
+url: "https://lte0609.github.io"
+baseurl: "/ht"
 google_analytics_key:
 show_full_navigation: true
 
