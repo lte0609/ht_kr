@@ -25,4 +25,4 @@ ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제�
 ![lodo](/images/id-table.png)
 
 
-<img src="{{ site.baseurl }}/images/id-table.png" width="100" height="100" alt="{{ site.title }} lo2go">
+<img src="{{ site.baseurl }}/images/id-table.png">
