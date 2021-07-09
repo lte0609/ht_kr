@@ -113,7 +113,7 @@ order: 1
   → Sensor의 상태를 확인하세요.  
   → NX12 Module의 상태를 확인하세요.  
 
-> [How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
+> 💡[How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
 
   
 
