@@ -9,7 +9,9 @@ order: 1
 
 ID:3 T-Tray의 ID Block 설정 예시입니다.
 
-
+1. Preset value
+### Preset value
+3. T-Tray ID Block
 ### T-Tray ID Block
 　  
 T-Tray ID는 4-Bit의 2진법으로 구성되어 있다. Block이 있으면 1, 없으면 0 입니다.
