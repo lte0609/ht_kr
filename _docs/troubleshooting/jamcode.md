@@ -32,7 +32,7 @@ order: 1
 
   → Stacker의 Stopper를 조정하여 Y축을 조정하세요.
 
-===
+---
 
 ### 030003   
   
@@ -56,7 +56,7 @@ order: 1
 
   → Tray Transfer를 확인하세요. 
 
-
+---
 
 
 
