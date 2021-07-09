@@ -1,6 +1,6 @@
 ---
 title: Jamcode
-category: Trouble shooting
+category: Trouble Shooting
 order: 1
 
 ---
