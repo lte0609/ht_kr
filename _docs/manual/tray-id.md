@@ -7,7 +7,7 @@ order: 1
 
 ![id3_en](https://user-images.githubusercontent.com/85915538/125014167-c5547300-e09f-11eb-80db-d73c8689ad35.png)
 
-ID:3 T-Tray의 ID Block을 설정 예시입니다.
+ID:3 T-Tray의 ID Block 설정 예시입니다.
 
 
 ### T-Tray ID Block
