@@ -30,9 +30,10 @@ order: 1
 * If the Y-axis alignment of C-Tray and Plate does not match.  
   → Adjust the Stacker's stopper to align the Y-axis.
   
-  > ⚠🟥🟦🔸🔹🔶🔷 When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
+  > ❗ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
 
-
+  > ❓ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
+  
 ### 030003
 　  
 **1. JAM CODE:** 030003
@@ -114,8 +115,8 @@ order: 1
 * Sensor의 감지 상태가 이상하다.  
   → Sensor의 상태를 확인하세요.  
   → NX12 Module의 상태를 확인하세요.  
-
-> 💡 [How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
+  
+  > 💡 [How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
 
   
 
