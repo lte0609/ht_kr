@@ -6,7 +6,7 @@ order: 1
 ---
 
 ### 010203
-
+　
 **1. JAM CODE:** 010203
 
 **2. JAM CONTENT:** No. %s Plate was not UP.
@@ -51,7 +51,7 @@ order: 1
   
 
 ### 040003
-
+　
 **1. JAM CODE:** 040003 / 041003
 
 **2. JAM CONTENT:** Front Unloading Index Robot picking failed.
