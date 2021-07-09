@@ -5,10 +5,6 @@ order: 1
 
 ---
 
-#### 0123ABD 4
-##### 0123ABD 5
-###### 0123ABD 6
-0123ABD 0
 
 ### 010203
 　  
@@ -65,7 +61,7 @@ order: 1
 
 ![040003](https://user-images.githubusercontent.com/85915538/125031467-496a2300-e0bf-11eb-8ea9-66fdc9c83d8b.png)
 
-**4. CHECK POINT & ACTION PROCESS**
+**4. CHECK POINT & ACTION PROCESS**  
 
 　**Device가 Carrier 안에 있는 경우**
 
@@ -79,7 +75,7 @@ order: 1
   → Ejector 상태를 확인하세요.
 
 * Index Robot의 Picker Cylinder가 다 내려오지 못했다.  
-  → Air Hose의 길이가 충분한지 확인하세요.
+  → Air Hose의 길이가 충분한지 확인하세요.  
 
 　**Device가 Carrier 안에 없는 경우**
 
