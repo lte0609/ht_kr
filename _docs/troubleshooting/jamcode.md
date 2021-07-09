@@ -30,7 +30,7 @@ order: 1
 * If the Y-axis alignment of C-Tray and Plate does not match.  
   → Adjust the Stacker's stopper to align the Y-axis.
   
-  > ❗ When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
+  > ⚠🟥🟦🔸🔹🔶🔷 When adjusting the Stacker's Stopper, be careful because other Stacker and Plate will also be affected.
 
 
 ### 030003
