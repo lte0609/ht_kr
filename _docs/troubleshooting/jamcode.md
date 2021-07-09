@@ -62,6 +62,7 @@ order: 1
 ![040003](https://user-images.githubusercontent.com/85915538/125031467-496a2300-e0bf-11eb-8ea9-66fdc9c83d8b.png)
 
 **4. CHECK POINT & ACTION PROCESS**
+
 　  
 　**Device가 Carrier 안에 있는 경우**
 
