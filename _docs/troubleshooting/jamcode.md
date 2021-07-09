@@ -29,8 +29,7 @@ order: 1
 * C-Tray가 Y축으로 걸쳐져 있다.  
   → Stacker의 Stopper를 조정하여 Y축을 조정하세요.
   
----
-
+  
 ### 030003
 
 **1. JAM CODE:** 030003
@@ -50,8 +49,7 @@ order: 1
 * LD Plate의 Device가 흐트러져 있다.  
   → Tray Transfer를 확인하세요. 
   
----
-
+  
 ### 040003
 
 **1. JAM CODE:** 040003 / 041003
