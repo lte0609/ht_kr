@@ -5,7 +5,6 @@ order: 1
 ---
 
 　  
-<img src="![id3_en](https://user-images.githubusercontent.com/85915538/125054040-5c3d2180-e0d8-11eb-963b-6c7c2cb906e7.png)" alt="id3_en" style="zoom:80%;" />
 
 ID:3 T-Tray Block setting example
 
