@@ -10,4 +10,5 @@ ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제�
 
 예를 들어, T-Tray ID 3을 표현할 때는 아래와 같이 설정하면 된다.    
 
-![id3_en](https://user-images.githubusercontent.com/85915538/124904091-3865d700-e017-11eb-8995-9f3749f55bf1.png)
+![id3_en](https://user-images.githubusercontent.com/85915538/125014167-c5547300-e09f-11eb-80db-d73c8689ad35.png)
+
