@@ -61,8 +61,8 @@ order: 1
 
 ![040003](https://user-images.githubusercontent.com/85915538/125031467-496a2300-e0bf-11eb-8ea9-66fdc9c83d8b.png)
 
-**4. CHECK POINT & ACTION PROCESS**  
-
+**4. CHECK POINT & ACTION PROCESS**
+　  
 　**Device가 Carrier 안에 있는 경우**
 
 * ULD Index Robot의 Teaching이 맞지 않다.  
@@ -77,6 +77,7 @@ order: 1
 * Index Robot의 Picker Cylinder가 다 내려오지 못했다.  
   → Air Hose의 길이가 충분한지 확인하세요.  
 
+　  
 　**Device가 Carrier 안에 없는 경우**
 
 * LD Index Robot의 Teaching이 맞지 않다.  
@@ -111,7 +112,7 @@ order: 1
   → Sensor의 상태를 확인하세요.  
   → NX12 Module의 상태를 확인하세요.  
 
-　> [How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
+> [How to set T-Tray ID](https://lte0609.github.io/ht/manual/tray-id/)
 
   
 
