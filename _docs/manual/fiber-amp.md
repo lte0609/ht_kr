@@ -13,7 +13,7 @@ order: 2
 
 1) Press the “+” and “-" button
 
-
+   
 
 **2. Sensing type**
 
@@ -25,7 +25,7 @@ order: 2
 
 3) Press the "+" and "-" buttons to change the settings, and press "Auto/OK" to save the settings.
 
-
+   
 
 **3. Emitter frequency switching**
 
@@ -37,7 +37,7 @@ order: 2
 
 3) Press the "+" and "-" buttons to change the settings, and press "Auto/OK" to save the settings.
 
-
+   
 
 **4. Light on / Dark on**
 
@@ -49,7 +49,7 @@ order: 2
 
 3) Press the "+" and "-" buttons to change the settings, and press "Auto/OK" to save the settings.
 
-
+   
 
 **5. Display inversion**
 
