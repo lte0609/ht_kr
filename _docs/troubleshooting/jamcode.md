@@ -17,16 +17,16 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**
 
-* C-Tray가 정상적으로 안착되어있다.
+* C-Tray가 정상적으로 안착되어있다.  
   → Plate Up/Down Sensor를 확인하세요.
 
-* C-Tray가 들떠있다.
+* C-Tray가 들떠있다.  
   → C-Tray와 Plate 사이에 이물질을 확인하세요.
   
-* C-Tray가 X축으로 걸쳐져 있다. 
+* C-Tray가 X축으로 걸쳐져 있다.  
   → Tray Transfer의 X축 Teaching을 확인하세요.
   
-* C-Tray가 Y축으로 걸쳐져 있다.
+* C-Tray가 Y축으로 걸쳐져 있다.  
   → Stacker의 Stopper를 조정하여 Y축을 조정하세요.
   
 ---
@@ -43,11 +43,11 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**
 
-* LD Buffer의 Device가 흐트러져 있다.
-  → LD XY Robot의 Teaching을 확인하세요.
+* LD Buffer의 Device가 흐트러져 있다.  
+  → LD XY Robot의 Teaching을 확인하세요.  
   → LD Index Robot의 VSC Level을 확인하세요.
 
-* LD Plate의 Device가 흐트러져 있다.
+* LD Plate의 Device가 흐트러져 있다.  
   → Tray Transfer를 확인하세요. 
   
 ---
@@ -66,26 +66,26 @@ order: 1
 
  **Device가 Carrier 안에 있는 경우**
 
-* ULD Index Robot의 Teaching이 맞지 않다.
+* ULD Index Robot의 Teaching이 맞지 않다.  
   → ULD Index Robot의 Teaching을 확인하세요.
 
-* VSC Level이 충족되지 않는다.
-  → Picker Pad 상태를 확인하세요.
-  → Air Hose 상태를 확인하세요.
-  → Fitting이 풀렸는지 확인하세요.
+* VSC Level이 충족되지 않는다.  
+  → Picker Pad 상태를 확인하세요.  
+  → Air Hose 상태를 확인하세요.  
+  → Fitting이 풀렸는지 확인하세요.  
   → Ejector 상태를 확인하세요.
 
-* Index Robot의 Picker Cylinder가 다 내려오지 못했다.
+* Index Robot의 Picker Cylinder가 다 내려오지 못했다.  
   → Air Hose의 길이가 충분한지 확인하세요.
 
  **Device가 Carrier 안에 없는 경우**
 
-* LD Index Robot의 Teaching이 맞지 않다.
+* LD Index Robot의 Teaching이 맞지 않다.  
   → LD Index Robot의 Teaching을 확인하세요.
 
-* LD Hear Pusher에 이물질이 존재한다.
+* LD Hear Pusher에 이물질이 존재한다.  
   → 이물질을 제거하세요.
 
-* 동일한 위치에서 연속으로 발생하였다.
+* 동일한 위치에서 연속으로 발생하였다.  
   → Carrier 상태를 확인하세요.
 
