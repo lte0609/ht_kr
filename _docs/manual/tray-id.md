@@ -4,11 +4,27 @@ category: Manual
 order: 1
 ---
 
-T-Tray의 좌측 상단에는 ID Block이 있다. 동일한 Handler에서는 각 T-Tray마다 고유의 ID를 가지며, Block의 위치를 바꿔서 이를 변경할 수 있다.   
+### T-Tray ID Block
 
-ID Block은 4-Bit의 2진법로 표현되어 있다. 첫번째 칸은 2의 0제곱인 1, 두번째 칸은 2의 1제곱인 2, 세번째 칸은 2의 2제곱인 4, 네번째 칸은 2의 3제곱인 8의 값을 가진다.   
+T-Tray ID는 4-Bit의 2진법으로 구성되어 있다. Block이 있으면 1, 없으면 0 입니다.
 
-예를 들어, T-Tray ID 3을 표현할 때는 아래와 같이 설정하면 된다.    
+ID Block은 왼쪽부터 차례대로 1, 2, 4, 8의 값어치을 가진다. 
+
+
+### Parity Bit
+
+Parity는 오류를 확인하기 위한 Bit 입니다.
+
+M500HT에서는 홀수 패리티를 사용합니다. 전체 비트에서 1의 개수가 홀수가 되도록 패리티 비트를 설정합니다.
+
+
+### Example
+
+ID:3 T-Tray를 설정하는 방법을 참고하세요.
 
 ![id3_en](https://user-images.githubusercontent.com/85915538/125014167-c5547300-e09f-11eb-80db-d73c8689ad35.png)
 
+
+### 4-Bit Binary Table
+
+![id-table](https://user-images.githubusercontent.com/85915538/125050261-6826e480-e0d4-11eb-8f9c-1b7dcdac0b10.png)
