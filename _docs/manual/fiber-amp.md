@@ -9,7 +9,7 @@ order: 2
 <img src="https://user-images.githubusercontent.com/85915538/125015270-bd95ce00-e0a1-11eb-858c-5d3b1752cf00.png" alt="amp" style="zoom:80%;" />
  
  
-### **1. Preset value**1111111111111
+### **1. Preset value**
 
 ![preset-value](https://user-images.githubusercontent.com/85915538/125015321-de5e2380-e0a1-11eb-8090-4004b6eab145.png)
 
