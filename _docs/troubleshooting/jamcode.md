@@ -18,17 +18,17 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**
 
-* C-Tray가 정상적으로 안착되어있다.  
-  → Plate Up/Down Sensor를 확인하세요.
+* If the C-Tray is properly seated.  
+  → Check the Plate Up/Down Sensor.
 
-* C-Tray가 들떠있다.  
-  → C-Tray와 Plate 사이에 이물질을 확인하세요.
+* If the C-Tray is not seated properly.  
+  → Check if there is something between C-Tray and Plate.
   
-* C-Tray가 X축으로 걸쳐져 있다.  
-  → Tray Transfer의 X축 Teaching을 확인하세요.
+* If the X-axis alignment of C-Tray and Plate does not match.  
+  → Adjust Tray Transfer's X-axis Teaching.
   
-* C-Tray가 Y축으로 걸쳐져 있다.  
-  → Stacker의 Stopper를 조정하여 Y축을 조정하세요.
+* If the Y-axis alignment of C-Tray and Plate does not match.  
+  → Adjust the Stacker's stopper to align the Y-axis.
   
 
 ### 030003
