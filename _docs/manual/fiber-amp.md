@@ -12,7 +12,8 @@ order: 2
 ![preset-value](https://user-images.githubusercontent.com/85915538/125015321-de5e2380-e0a1-11eb-8090-4004b6eab145.png)
 
 1) Press the “+” and “-" button
-   
+
+
 
 **2. Sensing type**
 
@@ -23,7 +24,8 @@ order: 2
 2) Press the “+” and “-" buttons to navigate to the *SEnS* and press the “Auto/OK” button.
 
 3) Press the "+" and "-" buttons to change the settings, and press "Auto/OK" to save the settings.
-   
+
+
 
 **3. Emitter frequency switching**
 
@@ -34,7 +36,8 @@ order: 2
 2) Press the “+” and “-" buttons to navigate to the ***FrE*** and press the “Auto/OK” button.
 
 3) Press the "+" and "-" buttons to change the settings, and press "Auto/OK" to save the settings.
-   
+
+
 
 **4. Light on / Dark on**
 
@@ -45,7 +48,8 @@ order: 2
 2) Press the “+” and “-" buttons to navigate to the ***Lodo*** and press the “Auto/OK” button.
 
 3) Press the "+" and "-" buttons to change the settings, and press "Auto/OK" to save the settings.
-   
+
+
 
 **5. Display inversion**
 
