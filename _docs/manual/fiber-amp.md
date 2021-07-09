@@ -17,7 +17,7 @@ order: 2
 
 **2. Sensing type**
 
-<img src="https://user-images.githubusercontent.com/85915538/125015534-3eed6080-e0a2-11eb-81fe-2aa6d034a07d.png" alt="sensing-type" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/85915538/125015534-3eed6080-e0a2-11eb-81fe-2aa6d034a07d.png" alt="sensing-type"  />
 
 1) Press the "Func/Cancel" button.
 
