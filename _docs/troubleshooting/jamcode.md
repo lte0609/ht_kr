@@ -7,7 +7,7 @@ order: 1
 
 ### 010203
 　  
-          **1. JAM CODE:** 010203
+**1. JAM CODE:** 010203
 
 **2. JAM CONTENT:** No. %s Plate was not UP.
 
@@ -62,7 +62,7 @@ order: 1
 
 **4. CHECK POINT & ACTION PROCESS**
 
- **Device가 Carrier 안에 있는 경우**
+　**Device가 Carrier 안에 있는 경우**
 
 * ULD Index Robot의 Teaching이 맞지 않다.  
   → ULD Index Robot의 Teaching을 확인하세요.
@@ -76,7 +76,7 @@ order: 1
 * Index Robot의 Picker Cylinder가 다 내려오지 못했다.  
   → Air Hose의 길이가 충분한지 확인하세요.
 
- **Device가 Carrier 안에 없는 경우**
+　**Device가 Carrier 안에 없는 경우**
 
 * LD Index Robot의 Teaching이 맞지 않다.  
   → LD Index Robot의 Teaching을 확인하세요.
