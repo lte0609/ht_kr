@@ -93,7 +93,7 @@ order: 1
   → Fitting이 풀렸는지 확인하세요.  
   → Ejector를 확인하세요.
 -->
-* If the VSC Level does not exceed the set value.
+* If the VSC Level does not exceed the set value.  
   → Check the Picker Pad status.  
   → Check the Air Hose status.  
   → Check if the fitting is loose.  
