@@ -20,7 +20,7 @@ order: 1
 
 * If the C-Tray is properly seated.  
   → Check the Plate Up/Down Sensor.
-
+  
 * If the C-Tray is not seated properly.  
   → Check if there is something between C-Tray and Plate.
   
@@ -51,16 +51,16 @@ order: 1
   → LD Index Robot의 VSC Level을 확인하세요.
 -->
 
-* If the device of LD Buffer is disturbed
-  → Check the Teaching of LD XY Robot.
+* If the device of LD Buffer is disturbed.  
+  → Check the Teaching of LD XY Robot.  
   → Check the VSC Level of the LD Index Robot.
-
+  
 <!--
 * LD Plate의 Device가 흐트러져 있다.  
   → Tray Transfer를 확인하세요. 
 -->
 
-* If the device of the LD Plate is disturbed
+* If the device of the LD Plate is disturbed.  
   → Check Tray Transfer.
   
 
