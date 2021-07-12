@@ -59,7 +59,7 @@ order: 1
   → Tray Transfer를 확인하세요. 
 -->
 * If the device of the LD Plate is disturbed.  
-  → Check Tray Transfer.
+  → Check the Tray Transfer.
   
 
 ### 040003
