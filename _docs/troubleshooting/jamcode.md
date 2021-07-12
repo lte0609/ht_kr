@@ -44,13 +44,23 @@ order: 1
 ![030003](https://user-images.githubusercontent.com/85915538/125031285-0314c400-e0bf-11eb-904e-dd5172caaa41.png)
 
 **4. CHECK POINT & ACTION PROCESS**
-
+<!--
 * LD Buffer의 Device가 흐트러져 있다.  
   → LD XY Robot의 Teaching을 확인하세요.  
   → LD Index Robot의 VSC Level을 확인하세요.
+-->
 
+* If the device of LD Buffer is disturbed
+  → Check the Teaching of LD XY Robot.
+  → Check the VSC Level of the LD Index Robot.
+
+<!--
 * LD Plate의 Device가 흐트러져 있다.  
   → Tray Transfer를 확인하세요. 
+-->
+
+* If the device of the LD Plate is disturbed
+  → Check Tray Transfer.
   
 
 ### 040003
