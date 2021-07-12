@@ -50,7 +50,6 @@ order: 1
   → LD XY Robot의 Teaching을 확인하세요.  
   → LD Index Robot의 VSC Level을 확인하세요.
 -->
-
 * If the device of LD Buffer is disturbed.  
   → Check the Teaching of LD XY Robot.  
   → Check the VSC Level of the LD Index Robot.
@@ -59,7 +58,6 @@ order: 1
 * LD Plate의 Device가 흐트러져 있다.  
   → Tray Transfer를 확인하세요. 
 -->
-
 * If the device of the LD Plate is disturbed.  
   → Check Tray Transfer.
   
@@ -75,33 +73,64 @@ order: 1
 ![040003](https://user-images.githubusercontent.com/85915538/125031467-496a2300-e0bf-11eb-8ea9-66fdc9c83d8b.png)
 
 **4. CHECK POINT & ACTION PROCESS**
-
 　  
+<!--
 　**Device가 Carrier 안에 있는 경우**
+-->
+　**If Device exists in Carrier**
 
+<!--
 * ULD Index Robot의 Teaching이 맞지 않다.  
   → ULD Index Robot의 Teaching을 확인하세요.
-
-* VSC Level이 충족되지 않는다.  
-  → Picker Pad 상태를 확인하세요.  
-  → Air Hose 상태를 확인하세요.  
+-->
+* If the Teaching of ULD Index Robot is not correct.  
+  → Check the Teaching of ULD Index Robot.
+  
+<!--
+* VSC Level이 설정 값을 넘지 못했다.  
+  → Picker Pad를 확인하세요.  
+  → Air Hose를 확인하세요.  
   → Fitting이 풀렸는지 확인하세요.  
-  → Ejector 상태를 확인하세요.
-
+  → Ejector를 확인하세요.
+-->
+* If the VSC Level does not exceed the set value.
+  → Check the Picker Pad status.  
+  → Check the Air Hose status.  
+  → Check if the fitting is loose.  
+  → Check the ejector status.
+  
+<!--
 * Index Robot의 Picker Cylinder가 다 내려오지 못했다.  
   → Air Hose의 길이가 충분한지 확인하세요.  
-
+-->
+* If the Picker Cylinder of Index Robot does not come down.
+  → Check if the length of the Air Hose is sufficient.
 　  
+<!--
 　**Device가 Carrier 안에 없는 경우**
-
+-->
+　**If the device does not exist in the carrier**
+ 
+<!--
 * LD Index Robot의 Teaching이 맞지 않다.  
   → LD Index Robot의 Teaching을 확인하세요.
+-->
+* If the teaching of LD Index Robot is not correct.  
+  → Check the Teaching of LD Index Robot.
 
+<!--
 * LD Hear Pusher에 이물질이 존재한다.  
   → 이물질을 제거하세요.
+-->
+* If there is something in the LD Hear Pusher.  
+  → Remove any foreign substances.
 
+<!--
 * 동일한 위치에서 연속으로 발생하였다.  
   → Carrier 상태를 확인하세요.
+-->
+* If jams occur consecutively at the same location.  
+  → Check the carrier.
   
 
 ### 050229
