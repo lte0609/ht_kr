@@ -4,4 +4,4 @@ title: 환영합니다!
 
 ### 안녕, 망고! 
 
-![mango](https://img.freepik.com/free-vector/cute-mango-cartoon-character-wearing-scarf_313669-159.jpg?size=338&ext=jpg)
+<img src="{{ site.baseurl }}/images/favicon.ico">
