@@ -29,7 +29,7 @@ order: 5
 ![fan-direction](https://user-images.githubusercontent.com/85915538/126117295-1559f775-dcb3-437d-aea4-5a119aa917a4.png)
 
 <!---
-Fan Blower 방향과 회전 방향이 바뀌지 않게 주의해야한다.
+Pay attention to the fan blower and fan rotation direction.  
 --->
 
-> ⛔ Pay attention to the fan blower and fan rotation direction.  
+> ⛔ Fan Blower 방향 및 회전 방향이 바뀌지 않게 주의하세요. 
