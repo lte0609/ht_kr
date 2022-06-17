@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 환영합니다!
 ---
 
 ### 안녕, 망고! 
