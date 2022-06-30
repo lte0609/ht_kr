@@ -14,11 +14,11 @@ order: 4
 　  
 ![heater-measure](https://user-images.githubusercontent.com/85915538/125908534-ab422ced-b9a5-4d60-aeb8-c6a35054694c.png)
 
-1) Terminal Block에서 Heater의 I-lug를 분리한다.  
-2) DVM으로 저항을 측정한다.  
-　2선식 : 빨간선과 흰선을 측정한다.  
-　3선식 : 빨간선과 흰선, 빨간선과 노란선을 측정한다.  
-3) 각 부위 별 저항값을 확인한다.  
+1) Terminal Block에서 Heater의 I-lug를 분리하세요.  
+2) DVM으로 저항을 측정하세요.  
+　2선식 : 빨간선과 흰선을 측정하세요.  
+　3선식 : 빨간선과 흰선, 빨간선과 노란선을 측정하세요.  
+3) 각 부위 별 저항값을 측정하세요.  
 
 <!---
 1) Disconnect the heater I-lug from the terminal block.  
