@@ -14,8 +14,9 @@ order: 2
 ![preset-value](https://user-images.githubusercontent.com/85915538/125015321-de5e2380-e0a1-11eb-8090-4004b6eab145.png)
 
 1) "+" 및 "-" 버튼을 누릅니다. 
- 
- 
+
+
+
 ### **Sensing type**
 
 ![sensing-type](https://user-images.githubusercontent.com/85915538/125039814-7cb1af80-e0c9-11eb-9f96-49bb15cb930a.png)
@@ -25,6 +26,7 @@ order: 2
 2) "+" 및 "-" 버튼을 눌러 ***SEnS***로 이동하고 "Auto/OK" 버튼을 누릅니다.
 
 3) "+" 및 "-" 버튼을 눌러 설정을 변경하고 "Auto/OK"을 눌러 설정을 저장합니다.
+ 
  
  
 ### **Emitter frequency switching**
@@ -38,6 +40,7 @@ order: 2
 3) "+" 및 "-" 버튼을 눌러 설정을 변경하고 "Auto/OK"을 눌러 설정을 저장합니다.
  
  
+ 
 ### **Light on / Dark on**
 
 ![lodo](https://user-images.githubusercontent.com/85915538/125015435-12d1df80-e0a2-11eb-818e-a045b6ffdd83.png)
@@ -47,6 +50,7 @@ order: 2
 2) "+" 및 "-" 버튼을 눌러 ***Lodo***로 이동하고 "Auto/OK" 버튼을 누릅니다.
 
 3) "+" 및 "-" 버튼을 눌러 설정을 변경하고 "Auto/OK"을 눌러 설정을 저장합니다.
+ 
  
  
 ### **Display inversion**
