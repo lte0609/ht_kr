@@ -8,21 +8,21 @@ order: 1
 　  
 ![id3](https://user-images.githubusercontent.com/85915538/125546900-944b81fc-0edd-48e1-82d2-cc63030ffeb6.png)
 
-ID:3 T-Tray Block setting example.
+ID:3 T-Tray Block의 설정 예시.
 
 
 ### **T-Tray ID Block**
 　  
-T-Tray ID is composed of 4-bit binary system. 1 if there is a block, 0 if not.
+T-Tray ID는 4-bit 이진법으로 구성되어 있습니다. 블록이 있으면 1, 없으면 0 입니다.
 
-ID Block has values of 1, 2, 4, 8 in order from the left.
+ID Block은 왼쪽부터 순서대로 1, 2, 4, 8의 값을 가집니다.
 
 
 ### **Parity Bit**
 　  
-Parity is a bit to check for errors.
+Parity bit는 오류를 확인하기 위한 bit 입니다.
 
-The M500HT uses odd parity. Set the parity bit so that the number of 1's in all bits is odd.
+M500HT는 홀수 패리티를 사용합니다. 전체 bit에서 1의 갯수가 홀수가 되도록 Parity bit를 설정하세요.
 
 
 ### **4-Bit Binary Table**
