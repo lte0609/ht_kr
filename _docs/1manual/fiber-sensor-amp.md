@@ -27,7 +27,6 @@ order: 2
 3) "+" 및 "-" 버튼을 눌러 설정을 변경하고 "Auto/OK"을 눌러 설정을 저장합니다.
  
  
- 
 ### **Emitter frequency switching**
 
 ![frequency](https://user-images.githubusercontent.com/85915538/125015441-14030c80-e0a2-11eb-8bc9-d0c8793cf383.png)
@@ -36,8 +35,7 @@ order: 2
 
 2) "+" 및 "-" 버튼을 눌러 ***FrE***로 이동하고 "Auto/OK" 버튼을 누릅니다.
 
-3) "+" 및 "-" 버튼을 눌러 설정을 변경하고 "Auto/OK"을 눌러 설정을 저장합니다.
- 
+3) "+" 및 "-" 버튼을 눌러 설정을 변경하고 "Auto/OK"을 눌러 설정을 저장합니다. 
  
  
 ### **Light on / Dark on**
@@ -49,7 +47,6 @@ order: 2
 2) "+" 및 "-" 버튼을 눌러 ***Lodo***로 이동하고 "Auto/OK" 버튼을 누릅니다.
 
 3) "+" 및 "-" 버튼을 눌러 설정을 변경하고 "Auto/OK"을 눌러 설정을 저장합니다.
- 
  
  
 ### **Display inversion**
