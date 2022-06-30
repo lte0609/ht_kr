@@ -18,7 +18,7 @@ order: 4
 2) DVM으로 저항을 측정하세요.  
 　2선식 : 빨간선과 흰선을 측정하세요.  
 　3선식 : 빨간선과 흰선, 빨간선과 노란선을 측정하세요.  
-3) 각 부위 별 저항값을 측정하세요.  
+3) 각 부위 별 저항값을 하세요.  
 
 <!---
 1) Disconnect the heater I-lug from the terminal block.  
