@@ -14,8 +14,7 @@ order: 2
 ![preset-value](https://user-images.githubusercontent.com/85915538/125015321-de5e2380-e0a1-11eb-8090-4004b6eab145.png)
 
 1) "+" 및 "-" 버튼을 누릅니다. 
-
-
+1)
 
 ### **Sensing type**
 
